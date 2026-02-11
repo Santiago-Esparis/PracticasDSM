@@ -1,4 +1,4 @@
 Prácticas DSM:
 
-- Tarea Bootstrap >> OK
-- Tarea React >> TBD
+- Tarea Bootstrap   >> OK
+- Tarea React       >> OK
